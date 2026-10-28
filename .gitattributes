@@ -1,0 +1,6 @@
+snapshot/** -text
+archives/** -text
+*.md text eol=lf
+*.json text eol=lf
+*.ps1 text eol=lf
+SHA256SUMS.txt text eol=lf
