@@ -40,4 +40,4 @@ Preview yang disetujui ada di [ninows.pro/cosmixteam-preview/](https://ninows.pr
 - Commit terakhir saat backup: [`bbfead5fdc679a0a825d6eddaaf8e605a06572a1`](https://github.com/ninowss/ninows-pro/commit/bbfead5fdc679a0a825d6eddaaf8e605a06572a1).
 - Source: `public/cosmixteam-preview/`.
 
-Pembuatan backup ini tidak mempublikasikan preview ke route utama. Pada saat snapshot, penggantian `/cosmixteam/` masih menunggu instruksi Nino.
+Pada saat snapshot 28 Oktober, penggantian `/cosmixteam/` masih menunggu instruksi Nino. **Update 29 Oktober 2026:** Nino kemudian memberikan instruksi go-live setelah mendapat persetujuan Iki; preview v6 dari commit `f23b914020b48b5aeb714ab3c52e5b21772ad0fa` sudah diterbitkan ke halaman utama. Snapshot dan tag backup lama tetap utuh untuk rollback. Lihat [catatan go-live](GO-LIVE-20261029.md).

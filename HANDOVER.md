@@ -2,6 +2,8 @@
 
 Tanggal: **28 Oktober 2026 (WIB)**. Pemilik repo: **ninowss / Nino**.
 
+**Pembaruan 29 Oktober 2026:** Nino telah meminta go-live setelah menerima persetujuan Iki. V6 dari commit `f23b914020b48b5aeb714ab3c52e5b21772ad0fa` kini live di `/cosmixteam/`. Catatan menunggu instruksi di bawah menjelaskan kondisi saat snapshot 28 Oktober. Backup awal, arsip, checksum dan tag tetap tidak berubah. Detail: [GO-LIVE-20261029.md](GO-LIVE-20261029.md).
+
 ## Tujuan dan status
 
 Nino meminta repo backup terpisah yang mudah dicari, public, lengkap dengan handover, sebagai persiapan bila Iki meminta preview menggantikan halaman utama. Repo ini menyimpan versi produksi lama sebelum penggantian tersebut.
